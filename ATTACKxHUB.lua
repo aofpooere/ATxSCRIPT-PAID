@@ -22,8 +22,10 @@ elseif PlaceId == 6447798030 then
 	loadstring(game:HttpGet(("https://raw.githubusercontent.com/aofpooere/ATxFunky/main/FunkyScript.lua"), true))()
 elseif PlaceId == 6284583030 then
 	loadstring(game:HttpGet(("https://raw.githubusercontent.com/aofpooere/PSX-ATX/main/PremiumScript.lua"), true))()
+elseif PlaceId == 621129760 then
+	loadstring(game:HttpGet(("https://raw.githubusercontent.com/aofpooere/KATxAT/main/Script-PAID.lua"), true))()
 else
-	game.Players.LocalPlayer:kick("ไปอ่านช่องสคริปว่าสคริปรองรับแมพอะไรบ้างนะ ไอสัส")
+	game.Players.LocalPlayer:kick("ไม่รักพ่อหลวง รันไม่ติดนะเคิฟ")
     wait(1)
     game:Shutdown()
 end
