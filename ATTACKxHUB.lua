@@ -24,6 +24,8 @@ elseif PlaceId == 6284583030 then
 	loadstring(game:HttpGet(("https://raw.githubusercontent.com/aofpooere/PSX-ATX/main/PremiumScript.lua"), true))()
 elseif PlaceId == 621129760 then
 	loadstring(game:HttpGet(("https://raw.githubusercontent.com/aofpooere/KATxAT/main/Script-PAID.lua"), true))()
+elseif PlaceId == 2788229376 then
+	loadstring(game:HttpGet(("https://raw.githubusercontent.com/aofpooere/Dahood-x-ATTACK/main/GODScript-PAID.lua"), true))()
 else
 	game.Players.LocalPlayer:kick("ไม่รักพ่อหลวง รันไม่ติดนะเคิฟ")
     wait(1)
