@@ -7,8 +7,7 @@ elseif PlaceId == 4520749081 or PlaceId == 6381829480 or PlaceId == 5931540094 t
 elseif PlaceId == 4616652839 or PlaceId == 5447073001 or PlaceId == 5084678830 or PlaceId == 5431071837 or PlaceId == 5431069982 or PlaceId == 5943874201 then
 	loadstring(game:HttpGet(("https://raw.githubusercontent.com/aofpooere/AttackX/main/Shindo-Life.lua"), true))()
 elseif PlaceId == 2753915549 or PlaceId == 4442272183 or PlaceId == 7449423635 then
-	_G.Color = Color3.fromRGB(249, 0, 0)
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/aofpooere/ATTACKxHUB/main/BloxFruits.lua"), true))()
+	loadstring(game:HttpGet(("https://raw.githubusercontent.com/aofpooere/Attack-Premium/main/ScriptBF.lua"), true))()
 elseif PlaceId == 286090429 then
 	loadstring(game:HttpGet(("https://raw.githubusercontent.com/aofpooere/AttackXESP/main/Esp-player.lua"), true))()
 elseif PlaceId == 292439477 then
